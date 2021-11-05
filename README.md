@@ -1,7 +1,7 @@
 # Incident Classification Prediction Of Location and Casualties
 - This project was done for the competition named **MILBOTICS 2k19** (September,2019 - January,2020) conducted by College of Military Engineering,Pune,Maharashtra,India. 
 - The problem statement given to all 35 teams was **AI : Trend Analysis and Deductions of Anti-National Elements** where the judges were expecting code output + presentation from all the teams.
-- I alongwith my teammates decided to use Random Forest Regressor & ARIMA model in combination to predict location & number of casualties respectively which triumphed over the other 34 teams.
+- I alongwith my teammates,[Pratik Kale](https://github.com/pkale32) and Sarun, decided to use Random Forest Regressor & ARIMA model in combination to predict location & number of casualties respectively which triumphed over the other 34 teams.
 - We presented our work at **2021 8th International Conference on Computing for Sustainable Global Development (INDIACom)** which is published in [IEEE Xplore](https://ieeexplore.ieee.org/document/9441087).
 
 ## File Descriptions :
